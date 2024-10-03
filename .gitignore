@@ -1,0 +1,17 @@
+# Bytecode files
+*.class
+
+# Maven, Gradle, etc.
+target/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
